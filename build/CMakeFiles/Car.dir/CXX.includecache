@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptpham/Desktop/projects/ParkingConsoleApp/src/Car.cpp
+iostream
+-
+Vehicle.h
+/Users/ptpham/Desktop/projects/ParkingConsoleApp/src/Vehicle.h
+Car.h
+/Users/ptpham/Desktop/projects/ParkingConsoleApp/src/Car.h
+
+/Users/ptpham/Desktop/projects/ParkingConsoleApp/src/Car.h
+iostream
+-
+Vehicle.h
+/Users/ptpham/Desktop/projects/ParkingConsoleApp/src/Vehicle.h
+
+/Users/ptpham/Desktop/projects/ParkingConsoleApp/src/ReadWritable.h
+iostream
+-
+
+/Users/ptpham/Desktop/projects/ParkingConsoleApp/src/Vehicle.h
+iostream
+-
+ReadWritable.h
+/Users/ptpham/Desktop/projects/ParkingConsoleApp/src/ReadWritable.h
+
